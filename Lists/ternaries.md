@@ -31,3 +31,5 @@ public static String checkAge(int age) {
 Вот так выглядит общая логика написания тернарного оператора:
 
 > условие ? true-результат : false-результат
+
+**[Вернуться назад →](https://github.com/ilezzov-code/Java-Crib)**
